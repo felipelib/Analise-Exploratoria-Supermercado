@@ -1,4 +1,4 @@
-# Respondendo perguntas de negócios usando uma base de dados contendo as vendas de um supermercado
+# Análise Exploratória- Supermercado
 
 Este projeto realiza uma análise exploratória de uma base de dados contendo as vendas de um supermercado ao longo de três meses, fornecida pelo Kaggle. O objetivo é responder várias perguntas de negócios para entender melhor o comportamento dos clientes e o desempenho do supermercado.
 
