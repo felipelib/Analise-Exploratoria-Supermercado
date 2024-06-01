@@ -4,6 +4,7 @@
 Para fazer essa análise exploratória, eu utilizei uma base dados do kaggle contendo as vendas de um supermercado durante 3 meses.
 
 Meu objetivo era responder as seguintes perguntas de negócios:
+  
   -Quais são os produtos mais comprados por mulheres e por homens?
 
   -Quais são os produtos mais vendidos?
